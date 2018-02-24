@@ -1,2 +1,2 @@
 # itinerum-landing
-Static landing page for Itinerum.ca
+Static landing page for https://itinerum.ca/
