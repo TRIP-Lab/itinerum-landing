@@ -988,6 +988,17 @@
 						text-decoration: none;
 					}
 
+						#header nav > ul > li > a.github-icon {
+							position: absolute;
+							text-decoration: none;
+							left: -42px;
+							top: 3px;
+						}
+
+						#header nav > ul > li > a.github-icon > img {
+							height: 20px;
+						}
+
 						#header nav > ul > li a.active {
 							color: #e9edf7;
 							display: inline-block;
